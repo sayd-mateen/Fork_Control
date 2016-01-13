@@ -1,3 +1,5 @@
 # Fork_Control
 
-Uses semaphores to control the output of the parent and child process in the C program. 
+This program is to demostrate a usage of binary semaphore.
+In this context, we show that parent and child to alternate printing
+a text message to a screen.
